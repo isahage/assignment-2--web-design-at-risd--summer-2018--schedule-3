@@ -1,0 +1,17 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body {
+   font-family: 'April Fatface', cursive;
+   margin: auto;
+}
+
+h1 {
+   font-family: 'April Fatface', cursive;
+   font-size: 100px;
+   text-align: right;
+   margin-top: 22px;
+   margin-bottom: 22px;
+}
