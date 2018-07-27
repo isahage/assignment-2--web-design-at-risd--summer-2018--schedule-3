@@ -18,6 +18,7 @@ h1 {
    margin-bottom: 0;
    margin-left: 0;
    margin-right: 0;
+}
 h2 {
    font-family: 'Open Sans', sans-serif;
    color: white;
@@ -27,6 +28,8 @@ h2 {
    margin-bottom: 22px;
    margin-left: 0;
    margin-right: 0;
+}
+blockquote {
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
   color: black;
