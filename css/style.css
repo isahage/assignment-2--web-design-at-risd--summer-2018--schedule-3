@@ -27,7 +27,6 @@ h2 {
    margin-right: 0;
 }
 blockquote {
-  background-color:rgb(193,17,13);
   font-family: 'Raleway', sans-serif;
   font-size: 40px;
   color: black;
@@ -40,7 +39,7 @@ blockquote {
 ol {
   font-family: 'Open Sans', sans-serif;
   font-size: 60px;
-  color: white;
+  color: rgb(193,17,13);
   text-align: left;
   margin-top: 22px;
   margin-bottom: 22px;
@@ -50,12 +49,13 @@ ol {
 h3 {
   font-family: 'Open Sans', sans-serif;
   font-size: 160px;
-  color: rgb(193,17,13);
+  color: black;
   text-align: right;
   margin-top: 0px;
   margin-bottom: 0px;
   margin-left: 200px;
   margin-right: 20px;
+  background-color: white;
 }
 h4 {
 
@@ -77,4 +77,15 @@ cite {
   margin-bottom: 22px;
   margin-left: 40px;
   margin-right: 400px;
+}
+h5 {
+
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  color: black;
+  text-align: right;
+  margin-top: 0px;
+  margin-bottom: 22px;
+  margin-left: 400px;
+  margin-right: 40px;
 }
