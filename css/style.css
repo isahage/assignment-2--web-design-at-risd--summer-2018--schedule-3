@@ -1,9 +1,10 @@
 body {
   background-color:rgb(71,141,180);
-   font-family: 'Abril Fatface', cursive;
-   margin: auto;
+   margin: 0;
 }
-
+div {
+  width:2000px;
+}
 h1 {
   background-color:white;
    font-family: 'Open Sans', sans-serif;
