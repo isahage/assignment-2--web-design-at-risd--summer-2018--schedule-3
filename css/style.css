@@ -37,5 +37,13 @@ blockquote {
   margin-left: 40px;
   margin-right: 40px;
 }
+ol {
+  font-family: 'Open Sans', sans-serif;
   font-size: 40px;
+  color: white;
   text-align: left;
+  margin-top: 22px;
+  margin-bottom: 22px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
