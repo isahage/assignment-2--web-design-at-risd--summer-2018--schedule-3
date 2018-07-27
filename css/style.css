@@ -5,31 +5,31 @@ body {
 }
 
 h1 {
-  background-color:rgb(71,141,180);
+  background-color:white;
    font-family: 'Open Sans', sans-serif;
-   color: white;
+   color: rgb(71,141,180);
    font-size: 190px;
    text-align: left;
-   margin-top: 22px;
+   margin-top: 0px;
    margin-bottom: 0;
    margin-left: 0;
    margin-right: 0;
 }
 h2 {
-  background-color:rgb(71,141,180);
+  background-color:white;
    font-family: 'Open Sans', sans-serif;
-   color: white;
-   font-size: 250px;
+   color: rgb(71,141,180);
+   font-size: 300px;
    text-align: right;
-   margin-top: 2px;
+   margin-top: 0px;
    margin-bottom: 22px;
    margin-left: 0;
    margin-right: 0;
 }
 blockquote {
   font-family: 'Raleway', sans-serif;
-  font-size: 40px;
-  color: black;
+  font-size: 60px;
+  color: rgb(8,17,125);
   text-align: center;
   margin-top: 22px;
   margin-bottom: 22px;
@@ -39,22 +39,23 @@ blockquote {
 ol {
   font-family: 'Open Sans', sans-serif;
   font-size: 60px;
-  color: rgb(193,17,13);
+  color: white;
+  background-color: rgb(154,187,205);
   text-align: left;
   margin-top: 22px;
   margin-bottom: 22px;
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 25px;
+  margin-right: 0px;
 }
 h3 {
   font-family: 'Open Sans', sans-serif;
   font-size: 160px;
-  color: black;
+  color: rgb(71,141,180);
   text-align: right;
-  margin-top: 0px;
+  margin-top: 22px;
   margin-bottom: 0px;
-  margin-left: 200px;
-  margin-right: 20px;
+  margin-left: 00px;
+  margin-right: 0px;
   background-color: white;
 }
 h4 {
@@ -62,8 +63,9 @@ h4 {
   font-family: 'Raleway', sans-serif;
   font-size: 40px;
   color: black;
+  background-color: rgb(154,187,205);
   text-align: left;
-  margin-top: 0px;
+  margin-top: 22px;
   margin-bottom: 22px;
   margin-left: 40px;
   margin-right: 400px;
@@ -83,8 +85,9 @@ h5 {
   font-family: 'Raleway', sans-serif;
   font-size: 40px;
   color: black;
+  background: rgb(154,187,205);
   text-align: right;
-  margin-top: 0px;
+  margin-top: 22px;
   margin-bottom: 22px;
   margin-left: 400px;
   margin-right: 40px;
