@@ -47,3 +47,13 @@ ol {
   margin-left: 200px;
   margin-right: 200px;
 }
+h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 160px;
+  color: rgb(193,17,13);
+  text-align: right;
+  margin-top: 0px;
+  margin-bottom: 22px;
+  margin-left: 200px;
+  margin-right: 0px;
+}
