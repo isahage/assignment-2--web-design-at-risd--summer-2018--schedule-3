@@ -69,6 +69,9 @@ div {
 }
 h4 {
 
+  font-family: 'Megrim', sans-serif;
+  font-size: 190px;
+  color: rgb(71,141,180);
   text-align: left;
 }
 cite {
