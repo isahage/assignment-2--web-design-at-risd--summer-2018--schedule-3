@@ -1,12 +1,12 @@
 body {
   background-color:rgb(71,141,180);
    margin: 0;
+  background-color:white;
 }
 div {
   width:2000px;
 }
 h1 {
-  background-color:white;
    font-family: 'Open Sans', sans-serif;
    color: rgb(71,141,180);
    font-size: 190px;
@@ -17,7 +17,6 @@ h1 {
    margin-right: 0;
 }
 h2 {
-  background-color:white;
    font-family: 'Open Sans', sans-serif;
    color: rgb(71,141,180);
    font-size: 300px;
@@ -57,14 +56,12 @@ h3 {
   margin-bottom: 0px;
   margin-left: 00px;
   margin-right: 0px;
-  background-color: white;
 }
 h4 {
 
   font-family: 'Raleway', sans-serif;
   font-size: 40px;
   color: black;
-  background-color: rgb(154,187,205);
   text-align: left;
   margin-top: 22px;
   margin-bottom: 22px;
@@ -86,7 +83,6 @@ h5 {
   font-family: 'Raleway', sans-serif;
   font-size: 40px;
   color: black;
-  background: rgb(154,187,205);
   text-align: right;
   margin-top: 22px;
   margin-bottom: 22px;
