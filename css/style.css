@@ -6,8 +6,11 @@ body {
    align-items: center;
    position: absolute;
 }
+
 div {
   width:2000px;
+  align-self: center;
+  align-content: flex-end;
 }
 h1 {
    font-family: 'Open Sans', sans-serif;
