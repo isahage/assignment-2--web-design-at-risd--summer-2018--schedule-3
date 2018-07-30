@@ -12,6 +12,7 @@ div {
   align-self: center;
   align-content: flex-end;
 }
+
 h1 {
    text-align: left;
    font-family: 'Megrim', sans-serif;
@@ -22,6 +23,7 @@ h1 {
    margin-left: 0;
    margin-right: 0;
 }
+
 h2 {
    font-family: 'Raleway', sans-serif;
    color: rgb(71,141,180);
@@ -36,7 +38,6 @@ blockquote {
   font-family: 'Raleway Dots', sans-serif;
   font-size: 100px;
   color: rgb(154,187,205);
-}
   text-align: left;
 blockquote:hover {
   text-shadow: 8px 8px 20px;
