@@ -37,16 +37,7 @@ blockquote {
   font-size: 100px;
   color: rgb(154,187,205);
 }
-ol {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 60px;
-  color: white;
-  background-color: rgb(154,187,205);
   text-align: left;
-  margin-top: 22px;
-  margin-bottom: 22px;
-  margin-left: 25px;
-  margin-right: 0px;
 }
 h3 {
   font-family: 'Open Sans', sans-serif;
