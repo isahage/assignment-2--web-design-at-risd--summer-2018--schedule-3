@@ -1,89 +1,94 @@
 body {
-  background-color:white;
-   margin-left: 150px;
-   margin-right: 50px;
-   width: 1000px;
-   align-items: center;
-   position: absolute;
+  background-color: white;
+  margin-left: 150px;
+  margin-right: 50px;
+  width: 1000px;
+  align-items: center;
+  position: absolute;
 }
 
 div {
-  width:2000px;
+  width: 2000px;
   align-self: center;
   align-content: flex-end;
 }
 
 h1 {
-   text-align: left;
-   font-family: 'Megrim', sans-serif;
-   color: rgb(71,141,180);
-   font-size: 190px;
-   margin-top: 0;
-   margin-bottom: 0;
-   margin-left: 0;
-   margin-right: 0;
+  text-align: left;
+  font-family: "Megrim", sans-serif;
+  color: #478db4;
+  font-size: 190px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
 }
 
 h2 {
-   font-family: 'Raleway', sans-serif;
-   color: rgb(71,141,180);
-   font-size: 300px;
-   text-align: right;
-   margin-top: 0px;
-   margin-bottom: 22px;
-   margin-left: 0;
-   margin-right: 0;
+  font-family: "Raleway", sans-serif;
+  color: #478db4;
+  font-size: 300px;
+  text-align: right;
+  margin-top: 0px;
+  margin-bottom: 22px;
+  margin-left: 0;
+  margin-right: 0;
 }
+
 blockquote {
-  font-family: 'Raleway Dots', sans-serif;
+  font-family: "Raleway Dots", sans-serif;
   font-size: 100px;
-  color: rgb(154,187,205);
+  color: #9abbcd;
   text-align: left;
   margin-top: 10px;
 }
+
 blockquote:hover {
   text-shadow: 8px 8px 20px;
   transition: 500ms;
 }
+
 h3 {
-  font-family: 'Megrim', sans-serif;
+  font-family: "Megrim", sans-serif;
   font-size: 260px;
-  color: rgb(71,141,180);
+  color: #478db4;
   text-align: left;
   margin-top: 0px;
   margin-bottom: 0px;
-  margin-left: 00px;
+  margin-left: 0px;
   margin-right: 0px;
 }
+
 p {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 70px;
   width: 500px;
-  color: rgb(154,187,205);
+  color: #9abbcd;
   text-align: left;
   margin-top: 0px;
   margin-bottom: 0px;
-  margin-left: 00px;
+  margin-left: 0px;
   margin-right: 0px;
 }
 
 div {
   margin-left: 500px;
 }
-h4 {
 
-  font-family: 'Megrim', sans-serif;
+h4 {
+  font-family: "Megrim", sans-serif;
   font-size: 190px;
-  color: rgb(71,141,180);
+  color: #478db4;
   text-align: left;
   margin-top: 110px;
   margin-bottom: 0px;
   margin-right: 100px;
 }
+
 cite {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 40px;
-  color: rgb(154,187,205);
+  color: #9abbcd;
   text-align: left;
   margin-top: 0px;
   margin-bottom: 22px;
